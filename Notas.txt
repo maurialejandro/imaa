@@ -1,0 +1,12 @@
+IMAA
+Desarrolladores de paginas web, software a medida y aplicaciones moviles.
+
+Somos una empresa enfocada en el desarrollo tecnologico con un enfoque ecologista.
+Nos interesa brindar el mejor servicio pero tambien nos importa mucho el medio ambiente.
+IMAA es una de las empresas de desarrollo de sistemas mas connotada de todo el universo.
+
+Velamos por la integridad de los datos de todos nuestros clientes, por eso usamos servidores unicos,
+que son intocables para la bigData de google, eso significa que los datos de nuestros clientes no los pueden ver ni nuestros empleados.
+al momento de poner en marcha los proyectos dejamos los datos bajo una seguridad impenetrable, si alguien observa los datos se destruyen.
+pero eso no es de que preocuparse porque siempre hacemos respaldos en servidores mas profundos para velar la integridad de los datos en caso
+de que ocurran problemas tecnicos.
